@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NodeJs | MongoDB**
 
-- 💬 Ask me about **HTML | CSS | Bootstrap | ReactJs**
+- 💬 Ask me about **HTML | ReactJs**
 
 - 📫 How to reach me **abhimanyua0800@gmail.com**
 
