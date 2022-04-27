@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhimanyu</h1>
 <h3 align="center">On a path to full stack developer</h3>
 
-- 🌱 I’m currently learning **ReactJs | NodeJs | MongoDB**
+- 🌱 I’m currently learning **NodeJs | MongoDB**
 
-- 💬 Ask me about **HTML | CSS | Bootstrap**
+- 💬 Ask me about **HTML | CSS | Bootstrap | ReactJs**
 
 - 📫 How to reach me **abhimanyua0800@gmail.com**
 
